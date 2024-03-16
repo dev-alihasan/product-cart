@@ -68,9 +68,9 @@ body {
   margin-bottom: 1rem;
 }
 
-.item-price sup {
+/* .item-price sup {
   color: #ff859;
-}
+} */
 
 .rating i {
   color: rgb(214, 235, 29);
